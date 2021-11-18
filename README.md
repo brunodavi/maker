@@ -9,8 +9,8 @@ Create directories and files
 ```bash
 $ mk ./directory/dir{1,2,3}/file{1,2,3}.txt
 
-$ tree test
-test
+$ tree diretory
+diretory
 ├── dir1
 │   ├── file1.txt
 │   ├── file2.txt
@@ -35,8 +35,5 @@ $ tree .
 .
 ├── file1.txt
 ├── file2.txt
-├── file3.txt
-├── manifest.json
-├── mk
-└── README.md
+└── file3.txt
 ```
