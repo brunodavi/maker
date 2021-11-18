@@ -1,6 +1,6 @@
 # maker
 
-Create directories and files
+Create files and directories if necessary
 
 ## Examples
 
@@ -25,7 +25,7 @@ diretory
     └── file3.txt
 ```
 
-- Files
+- Only Files
 
 ```bash
 

@@ -3,13 +3,13 @@
 usage() {
 
   cat <<EOF
-  Usage: maker [ ./directories/files.txt | ./files.txt ]
+  Usage: maker directories/files.ext
 
     directories:
-      List diretories to create and local files
+      Create diretories if necessary
 
     files:
-      List files to create
+      Create files
 
 
   Examples:

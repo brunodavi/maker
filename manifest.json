@@ -3,7 +3,7 @@
   "version": "1.0",
   "homepage": "https://github.com/brunodavi/maker",
   "maintainer": "@brunodavi",
-  "description": "Create directories and files",
+  "description": "Create files and directories if necessary",
   "arch": "all",
   "depends": [],
   "files" :{
