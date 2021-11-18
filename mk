@@ -14,7 +14,7 @@ usage() {
 
   Examples:
 
-    $ mk ./diretory/test{1,2,3}/file{1,2,3}.txt
+    $ mk ./directory/dir{1,2,3}/file{1,2,3}.txt
     $ mk ./file{1..5}.txt
 EOF
 

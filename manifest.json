@@ -1,0 +1,13 @@
+{
+  "name": "maker",
+  "version": "1.0",
+  "homepage": "https://github.com/brunodavi/maker",
+  "maintainer": "@brunodavi",
+  "description": "Create directories and files",
+  "arch": "all",
+  "depends": [],
+  "files" :{
+    "mk": "bin/mk"
+  }
+}
+
